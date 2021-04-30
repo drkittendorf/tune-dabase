@@ -77,13 +77,10 @@ The dependencies listed below are all the core NPM packages used throughout the 
 
 For `future` development, I would like to incorporate the following `enhancements`:
 
-- Add get up and move timer
-- Add sounds
-- Add weather
-- Add Allergy report
-- Add to do list
-- Add greeting
-- Add database to store past to-do lists
+- Setup mongo DB fields
+-import MM data
+-import DC data
+-setup front end interface
 
 
 ---
