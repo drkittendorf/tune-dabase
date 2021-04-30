@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tune-dabase/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/tune-dabase/static/js/main.96fe6ac7.chunk.js",
+    "main.js.map": "/tune-dabase/static/js/main.96fe6ac7.chunk.js.map",
+    "runtime-main.js": "/tune-dabase/static/js/runtime-main.f79fafb6.js",
+    "runtime-main.js.map": "/tune-dabase/static/js/runtime-main.f79fafb6.js.map",
+    "static/js/2.95994bbb.chunk.js": "/tune-dabase/static/js/2.95994bbb.chunk.js",
+    "static/js/2.95994bbb.chunk.js.map": "/tune-dabase/static/js/2.95994bbb.chunk.js.map",
+    "static/js/3.9df0cd15.chunk.js": "/tune-dabase/static/js/3.9df0cd15.chunk.js",
+    "static/js/3.9df0cd15.chunk.js.map": "/tune-dabase/static/js/3.9df0cd15.chunk.js.map",
+    "index.html": "/tune-dabase/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/tune-dabase/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.95994bbb.chunk.js.LICENSE.txt": "/tune-dabase/static/js/2.95994bbb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tune-dabase/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f79fafb6.js",
+    "static/js/2.95994bbb.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.96fe6ac7.chunk.js"
+  ]
+}
